@@ -1,6 +1,6 @@
 # 724 Events
 
-# Formation Développeur d'application - Référencement
+# Formation Développeur d'application - Débug
 
 ## Projet 8 : 724 Events - Débuggez le site d'une agence d'événementiel
 ## Technologies :
